@@ -453,7 +453,7 @@ Contributions are welcome! Here's how you can help:
 
 **Developer:** Unkn5wn  
 **GitHub:** [@Unkn5wn](https://github.com/Unkn5wn)  
-**Project Link:** [https://github.com/Unkn5wn/Spa-Game](https://github.com/Unkn5wn/Spa-Game)
+**Project Link:** [https://github.com/Unkn5wn/Bean-Resort](https://github.com/Unkn5wn/Bean-Resort)
 
 ---
 
